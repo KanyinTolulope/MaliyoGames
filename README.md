@@ -1,2 +1,2 @@
 # MaliyoGames
-This repository contains all my submissions for the Maliyo Games Bootcamp 2022. 
+This repository contains my submissions for the Maliyo Games Challenge 1 - Plane Programming.  
